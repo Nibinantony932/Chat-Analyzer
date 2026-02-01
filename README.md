@@ -32,7 +32,7 @@ A powerful WhatsApp chat analyzer built with Streamlit that helps you extract me
 ## 🌐 Demo
 
 You can access the live application at:
-**[Your Streamlit App Link Here]**
+**https://chat-analyzer-00.streamlit.app/]**
 
 Or run it locally by following the installation instructions below.
 
@@ -63,7 +63,7 @@ pip install streamlit plotly
 streamlit run app.py
 ```
 
-The application will automatically open in your default web browser at `https://chat-analyzer-00.streamlit.app/`
+The application will automatically open in your default web browser at `http://localhost:8501`
 
 ---
 
@@ -164,7 +164,10 @@ The analyzer automatically:
 
 ## 👥 Contributors
 
-This project was collaboratively developed by a team of 3 developers.
+
+- **Delwin**
+- **Christy**
+- **Alwin**
 
 ---
 
