@@ -168,6 +168,7 @@ The analyzer automatically:
 - **Delwin**
 - **Christy**
 - **Alwin**
+- **Nibin**
 
 ---
 
